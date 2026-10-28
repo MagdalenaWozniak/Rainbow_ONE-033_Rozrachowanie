@@ -1,0 +1,9 @@
+C:\Users\magdaw\Documents\Rainbow\ONE-033_Rozrachowanie\ONE-033_Rozrachowanie\bin\Debug\ONE-033_Rozrachowanie.exe.config
+C:\Users\magdaw\Documents\Rainbow\ONE-033_Rozrachowanie\ONE-033_Rozrachowanie\bin\Debug\ONE-033_Rozrachowanie.exe
+C:\Users\magdaw\Documents\Rainbow\ONE-033_Rozrachowanie\ONE-033_Rozrachowanie\bin\Debug\ONE-033_Rozrachowanie.pdb
+C:\Users\magdaw\Documents\Rainbow\ONE-033_Rozrachowanie\ONE-033_Rozrachowanie\obj\Debug\ONE-033_Rozrachowanie.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\Rainbow\ONE-033_Rozrachowanie\ONE-033_Rozrachowanie\obj\Debug\ONE-033_Rozrachowanie.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Rainbow\ONE-033_Rozrachowanie\ONE-033_Rozrachowanie\obj\Debug\ONE-033_Rozrachowanie.exe
+C:\Users\magdaw\Documents\Rainbow\ONE-033_Rozrachowanie\ONE-033_Rozrachowanie\obj\Debug\ONE-033_Rozrachowanie.pdb
+C:\Users\magdaw\Documents\Rainbow\ONE-033_Rozrachowanie\ONE-033_Rozrachowanie\bin\Debug\cdn_api20220.net.dll
+C:\Users\magdaw\Documents\Rainbow\ONE-033_Rozrachowanie\ONE-033_Rozrachowanie\obj\Debug\ONE-033_Rozrachowanie.csproj.CopyComplete
